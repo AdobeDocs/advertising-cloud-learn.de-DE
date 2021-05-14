@@ -59,3 +59,4 @@ Im öffentlichen Repository werden automatisierte Beschriftungen zugewiesen, um 
 
 * **An Autor** gesendete Änderung: Der Autor wurde über die ausstehende Pull-Anfrage informiert.
 * **ready-to-merge**: Bereit zur Überprüfung durch unser Pull-Request-Review-Team.
+
