@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Reporting mit Advertising Cloud-Marketingkanälen (A4AdC)
 
-Erfahren Sie, wie die Viewthrough- und Clickthrough-Eingabedaten von Advertising Cloud mit Adobe Analytics [!UICONTROL Marketing Channels] funktionieren.
+Erfahren Sie, wie die Viewthrough- und Clickthrough-Eingabedaten von Advertising Cloud mit Adobe Analytics funktionieren. [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)
