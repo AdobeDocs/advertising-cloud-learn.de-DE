@@ -1,16 +1,16 @@
 ---
-title: Einführung in Workspace und Reporting zu Advertising Cloud-Daten
-description: Erfahren Sie, wie Sie mit Ihren Advertising Cloud-Daten visuelle Berichte in Adobe Analytics Analysis Workspace erstellen können.
+title: Einführung in [!DNL Analysis Workspace] für die Berichterstellung für Advertising Cloud-Daten
+description: Erfahren Sie, wie Sie mit Ihren Advertising Cloud-Daten visuelle Berichte in Adobe Analytics erstellen können. [!DNL Analysis Workspace].
 exl-id: 83e96311-e871-4913-959e-473be62c5c47
-source-git-commit: 0e31992243519919883a1376b4cbaff1f2fce8ac
+source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Einführung in Analysis Workspace für die Berichterstellung von Advertising Cloud-Daten (A4AdC)
+# Einführung in [!DNL Analysis Workspace] für die Berichterstellung für Advertising Cloud-Daten
 
-Erfahren Sie, wie Sie mit Ihren Advertising Cloud-Daten visuelle Berichte in Adobe Analytics erstellen können. [!UICONTROL Analysis Workspace].
+Erfahren Sie, wie Sie mit Ihren Advertising Cloud-Daten visuelle Berichte in Adobe Analytics erstellen können. [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33492)
