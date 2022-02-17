@@ -1,17 +1,15 @@
 ---
-title: Erstellen einer Platzierung für Advertising Cloud DSP
-description: Erfahren Sie, wie Sie eine Platzierung erstellen.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+title: Erstellen einer standardmäßigen Anzeigeplatzierung für Advertising Cloud DSP
+description: Erfahren Sie, wie Sie eine standardmäßige Anzeigeplatzierung erstellen.
+source-git-commit: ebceb6cdd931dfb799d2b54f3ab5be84e227e7dd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# Erstellen einer Platzierung
+# Erstellen einer standardmäßigen Anzeigeplatzierung
 
-Erfahren Sie, wie Sie eine Platzierung für eine Advertising Cloud DSP-Kampagne erstellen.
+Erfahren Sie, wie Sie eine standardmäßige Anzeigeplatzierung für eine Advertising Cloud DSP-Kampagne erstellen.
 
-<!--
->[!VIDEO]()
--->
+>[!VIDEO](https://video.tv.adobe.com/v/340454)
