@@ -1,16 +1,16 @@
 ---
-title: Advertising Cloud DSP-Zielgruppenbibliotheken und Anwenden von verhaltensbasiertem Targeting
+title: DSP Zielgruppenbibliotheken und Anwenden von verhaltensbasiertem Targeting
 description: Erfahren Sie mehr über wiederverwendbare Zielgruppenbibliotheken zum Anpassen von verhaltensbasiertem Targeting.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
 # Zielgruppenbibliotheken und Anwenden von verhaltensbasiertem Targeting
 
-Erfahren Sie mehr über wiederverwendbare Zielgruppenbibliotheken zum Anpassen von verhaltensbasiertem Targeting, deren Erstellung und Anwendung auf Ihre Advertising Cloud DSP-Platzierungen.
+Erfahren Sie mehr über wiederverwendbare Zielgruppenbibliotheken zum Anpassen von verhaltensbasiertem Targeting, deren Erstellung und deren Anwendung auf Ihre DSP Platzierungen.
 
 <!--
 >[!VIDEO]()

@@ -1,18 +1,18 @@
 ---
-title: Reporting mit Advertising Cloud-Marketingkanälen
-description: Erfahren Sie, wie die Viewthrough- und Clickthrough-Eingabedaten von Advertising Cloud mit Adobe Analytics funktionieren. [!DNL Marketing Channels].
+title: Reporting mit Adobe Advertising Marketing-Kanälen
+description: Erfahren Sie, wie die Adobe Advertising-Viewthrough- und Clickthrough-Eingabedaten mit Adobe Analytics funktionieren. [!DNL Marketing Channels].
 exl-id: 9fadf819-17bf-47cc-b763-1375e426552f
-source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Reporting mit Advertising Cloud-Marketingkanälen
+# Reporting mit Adobe Advertising Marketing-Kanälen
 
-*Advertiser mit[!DNL Adobe Analytics for Advertising Cloud]*
+*Advertiser mit[!DNL Adobe Analytics for Adobe Advertising]*
 
-Erfahren Sie, wie die Viewthrough- und Clickthrough-Eingabedaten von Advertising Cloud mit Adobe Analytics funktionieren. [!DNL Marketing Channels].
+Erfahren Sie, wie die Adobe Advertising-Viewthrough- und Clickthrough-Eingabedaten mit Adobe Analytics funktionieren. [!DNL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

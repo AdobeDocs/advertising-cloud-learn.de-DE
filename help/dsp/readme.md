@@ -1,12 +1,12 @@
 ---
-source-git-commit: 3c77ea289a25c8ad22f32bd37eedd7b243809505
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
-# Advertising Cloud DSP Tutorials
+# Adobe Advertising DSP Tutorials
 
-Dies ist der Ordner für Videoseiten zu Advertising Cloud DSP.
+Dies ist der Ordner für Videoseiten zu DSP.
 
 **Hinweis: Diese Seite wird nicht in der kundenorientierten Dokumentation veröffentlicht.**
