@@ -1,10 +1,9 @@
 ---
 title: Erstellen von Adobe Advertising Dashboards mit Adobe Analytics
 description: Erfahren Sie mehr über die Erstellung eines Adobe Advertising-Dashboards zur Live-Kampagnenüberwachung.
-exl-id: ec90c659-4cbc-4be7-9478-269a21c98b98
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---

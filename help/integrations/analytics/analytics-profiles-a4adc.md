@@ -1,10 +1,9 @@
 ---
 title: Erstellen [!DNL Analytics] Profile für die Adobe Advertising Activation and Reporting
 description: Erfahren Sie, wie Sie mit Adobe Analytics robuste Site-Retargeting-Pools für Adobe Advertising-Remarketing erstellen.
-exl-id: e367435c-238a-4025-a160-ff72d45ea741
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
